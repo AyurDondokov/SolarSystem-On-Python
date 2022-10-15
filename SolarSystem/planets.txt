@@ -1,0 +1,8 @@
+Mercury 0.3 2439 brown 88
+Venus 0.6 3025 yellow 225
+Earth 1 6378 blue 365
+Mars 1.3 3390 red 687
+Jupiter 2.5 71300 orange 4343
+Saturn 4.2 60330 grey 10757
+Uran 5.35 25050 green 30660
+Neptune 6 24750 blue 60225
